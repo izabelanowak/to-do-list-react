@@ -1,4 +1,56 @@
-# Getting Started with Create React App
+# To-do-list
+![icon](public/icon.png)
+
+Welcome to To-do-list!
+
+If you are looking for a place to save your to-do list this is the place for you!
+
+## Preview of the website 
+
+Click here to see To-do-list: [To-do-list demo]()
+
+## Description
+Here is a simple list of tasks. Here you can add your tasks by typing the content into the text field, and then clicking the button or confirming enter! Your tasks will appear in the list below. With the green button you can mark your task as completed or delete it after pressing the red button. After entering first task, two buttons appear: (Ukryj ukończone) and (Ukończ wszystkie). The first one hides/shows all completed tasks and the second one marks all incomplete tasks as completed. The button does not work when all tasks are marked as done.
+
+## Used technologies:
+
+-   Semantic HTML
+-   CSS
+-   BEM naming
+-   Media queries
+-   Grid
+-   Flexbox
+-   ES6+ features
+-   Immutability
+-   React
+
+## How to use
+See gif below to see how to-do-list works!
+
+1. Add new task by clicking into button (Dodaj zadanie) or just click enter!
+
+![Gif demo 1](public/to-do-demo1.gif)
+
+2. You can set your task as done by click in green button, or remove task by clicking in red button!
+
+![Gif demo 2](public/to-do-demo2.gif)
+
+3. Hide/show your completed tasks with the button (Ukryj ukończone).
+
+![Gif demo 3](public/to-do-demo3.gif)
+
+4. Set all tasks complete with the button (Ukończ wszytslie).
+
+![Gif demo 4](public/to-do-demo4.gif)
+
+5. See how to-do list works on phones!
+
+![Gif demo 5](public/to-do-demo5.gif)
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,11 +65,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -38,33 +85,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
