@@ -43,7 +43,7 @@ See gif below to see how to-do-list works!
 
 ![Gif demo 3](public/to-do-demo3.gif)
 
-4. Set all tasks complete with the button (Ukończ wszytskie).
+4. Set all tasks complete with the button (Ukończ wszystkie).
 
 ![Gif demo 4](public/to-do-demo4.gif)
 
