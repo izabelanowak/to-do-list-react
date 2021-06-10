@@ -23,6 +23,10 @@ Here is a simple list of tasks. Here you can add your tasks by typing the conten
 -   ES6+ features
 -   Immutability
 -   React
+-   create-react-app
+-   Webpack
+-   Babel
+-   Hooks
 
 ## How to use
 See gif below to see how to-do-list works!
@@ -39,7 +43,7 @@ See gif below to see how to-do-list works!
 
 ![Gif demo 3](public/to-do-demo3.gif)
 
-4. Set all tasks complete with the button (Ukończ wszytslie).
+4. Set all tasks complete with the button (Ukończ wszytskie).
 
 ![Gif demo 4](public/to-do-demo4.gif)
 
