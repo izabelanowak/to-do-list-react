@@ -26,7 +26,8 @@ Here is a simple list of tasks. Here you can add your tasks by typing the conten
 -   create-react-app
 -   Webpack
 -   Babel
--   Hooks
+-   Hooks (useState, useEffect)
+-   localStorage
 
 ## How to use
 See gif below to see how to-do-list works!
@@ -50,8 +51,6 @@ See gif below to see how to-do-list works!
 5. See how to-do list works on phones!
 
 ![Gif demo 5](./to-do-demo5.gif)
-
-
 
 
 ## Getting Started with Create React App
