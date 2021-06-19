@@ -33,23 +33,23 @@ See gif below to see how to-do-list works!
 
 1. Add new task by clicking into button (Dodaj zadanie) or just click enter!
 
-![Gif demo 1](public/to-do-demo1.gif)
+![Gif demo 1](./to-do-demo1.gif)
 
 2. You can set your task as done by click in green button, or remove task by clicking in red button!
 
-![Gif demo 2](public/to-do-demo2.gif)
+![Gif demo 2](./to-do-demo2.gif)
 
 3. Hide/show your completed tasks with the button (Ukryj ukończone).
 
-![Gif demo 3](public/to-do-demo3.gif)
+![Gif demo 3](./to-do-demo3.gif)
 
 4. Set all tasks complete with the button (Ukończ wszystkie).
 
-![Gif demo 4](public/to-do-demo4.gif)
+![Gif demo 4](./to-do-demo4.gif)
 
 5. See how to-do list works on phones!
 
-![Gif demo 5](public/to-do-demo5.gif)
+![Gif demo 5](./to-do-demo5.gif)
 
 
 
