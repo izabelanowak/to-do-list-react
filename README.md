@@ -16,7 +16,6 @@ Here is a simple list of tasks. Here you can add your tasks by typing the conten
 
 -   Semantic HTML
 -   CSS
--   BEM naming
 -   Media queries
 -   Grid
 -   Flexbox
@@ -28,6 +27,7 @@ Here is a simple list of tasks. Here you can add your tasks by typing the conten
 -   Babel
 -   Hooks (useState, useEffect)
 -   localStorage
+-   Styled-components
 
 ## How to use
 See gif below to see how to-do-list works!
