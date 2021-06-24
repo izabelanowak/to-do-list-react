@@ -7,23 +7,23 @@ export const Wrapper = styled.div`
 
 export const Button = styled.button`
     background: transparent;
-    color: teal;
+    color: ${({ theme }) => theme.colors.primaryColor};
     border: none;
     cursor: pointer;
     margin: 0 0 0 20px;
     transition: color 0.3s;
 
-    @media(max-width: 767px) {
+    @media(max-width: ${({ theme }) => theme.breakpoints.mobile}px) {
         flex-basis: 100%;
         margin: 10px;
     }
 
     &:hover{
-        color: hsl(180, 100%, 35%);
+        color: ${({ theme }) => theme.colors.hoverColor};
     }
 
     &:disabled{
-        color: #ccc;
+        color: ${({ theme }) => theme.colors.disabledColor};
         cursor: not-allowed;
     }
 `;
