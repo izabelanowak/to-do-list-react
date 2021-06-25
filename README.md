@@ -28,6 +28,7 @@ Here is a simple list of tasks. Here you can add your tasks by typing the conten
 -   Hooks (useState, useEffect)
 -   localStorage
 -   Styled-components
+-   custom Hooks
 
 ## How to use
 See gif below to see how to-do-list works!
