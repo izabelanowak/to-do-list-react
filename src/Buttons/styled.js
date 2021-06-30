@@ -18,11 +18,12 @@ export const Button = styled.button`
         margin: 10px;
     }
 
-    &:hover{
-        color: ${({ theme }) => theme.colors.hoverColor};
+    &:hover {
+        filter: brightness(110%);
     }
 
-    &:disabled{
+    &:disabled { 
+        filter: none;
         color: ${({ theme }) => theme.colors.disabledColor};
         cursor: not-allowed;
     }

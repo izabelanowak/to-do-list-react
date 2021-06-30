@@ -24,11 +24,11 @@ export const Button = styled.button`
     transition: 0.3s;
 
     &:hover {
-        background-color: ${({ theme }) => theme.colors.hoverColor};
+        filter: brightness(110%);
         transform: scale(1.1);
     }
 
     &:active {
-        background-color: ${({ theme }) => theme.colors.activeColor};
+        filter: brightness(120%);
     }
 `;
