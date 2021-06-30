@@ -19,6 +19,7 @@ const Form = ({ addNewTask }) => {
         }
         addNewTask(trimmedNewTaskContent);
         setNewTaskContent("");
+        focusInput();
     };
 
     return (
