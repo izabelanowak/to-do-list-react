@@ -24,6 +24,7 @@ const Form = ({ addNewTask }) => {
     return (
         <Wrapper onSubmit={onFormSubmit}>
             <Input
+                autoFocus
                 ref={inputRef}
                 value={newTaskContent}
                 placeholder="Co jest do zrobienia?"
